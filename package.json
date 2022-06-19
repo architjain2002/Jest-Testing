@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/architjain2002/Jest-Testing-/issues"
   },
-  "homepage": "https://github.com/architjain2002/Jest-Testing-#readme"
+  "homepage": "https://github.com/architjain2002/Jest-Testing-#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
 }
